@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="sod-lol" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 <br />
 
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="S.O.D GitHub Stats" src="https://github-readme-stats.sod-lol.vercel.app/api?username=sod-lol&show_icons=true&hide_border=true" />
+  <img align="left" alt="S.O.D GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sod-lol&show_icons=true&hide_border=true" />
 
 </details>
 
