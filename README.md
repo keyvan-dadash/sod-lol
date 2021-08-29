@@ -7,10 +7,9 @@
 <!---
 sod-lol/sod-lol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> -->
+---> 
 
 ### Hi there, I'm S.O.D - aka [sod-lol] 👋
-original_referer=https%3A%2F%2Fgithub.com%2Fsod-lol&screen_name=sod-lol)
 
 ## I'm a Little Boy who is sought for exciting things.!!
 - 👀 I’m interested in System Security, Deep Learning, High performance Systems, Distributed Systems
@@ -68,7 +67,7 @@ original_referer=https%3A%2F%2Fgithub.com%2Fsod-lol&screen_name=sod-lol)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="S.O.D GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="S.O.D GitHub Stats" src="https://github-readme-stats.sod-lol.vercel.app/api?username=sod-lol&show_icons=true&hide_border=true" />
 
 </details>
 
