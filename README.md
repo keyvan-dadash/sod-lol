@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="S.O.D GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sod-lol&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="S.O.D GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sod-lol&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=S.O.D" />
 
 </details>
 
